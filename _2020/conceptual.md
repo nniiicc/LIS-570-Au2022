@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Conceptual Foundations of Research Methods"
-date: 2020-10-05
+date: 2022-10-06
 ready: true
 video:
   aspect: 56.25
