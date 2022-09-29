@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Qualitative - Methods for Data Collection"
-date: 2020-10-26
+date: 2022-10-24
 ready: true
 video:
   aspect: 56.25
   id: #for youtube videos if there is only one
 ---
 
-**Week 5 + 6 - Qualitative Data Collection and Analysis**: One of the major paradigms in LIS research is the collection and analysis of data using qualitative methods. In this two week class session we will discuss data collection methods like interviews, surveys, and content analysis. We will also discuss analytic techniques such as interview coding, memo writing, and ethnographic reporting.  
+**Qualitative Data Collection and Analysis**: One of the major paradigms in LIS research is the collection and analysis of data using qualitative methods. In this two week class session we will discuss data collection methods like interviews, surveys, and content analysis. We will also discuss analytic techniques such as interview coding, memo writing, and ethnographic reporting.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2GxR945qhiw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -98,27 +98,3 @@ Participant observation is often, but not always, coupled with qualitative metho
 - **Instrument**: In participant observation, the researcher is often their own interpretive instrument. This means that the thoughts and observations made by the researcher are, in many ways, the data that are collected. However, this does not mean that any subjective view is within scope of an observation for analysis. In advance of the first planned observation a researcher will record assumptions that they have about the site's relevance, the expected occurrences or activities, and what actors or participants are deemed important to interpreting these activities. Over time the researcher will return to these records in order to update and record how their assumptions either matched or deviated from the actual observations that were recorded. This process of going back and forth from assumptions, to observations, to documentation is called "reflexivity" and it is the key activity of observation-based analysis in the social sciences.  
 - **Data**: The data produced by observation are the records of assumptions and justification for research (described above) as well as the systematic recording of a **field or site note** and **memo**. During each observation period a researcher will record notes about what they are observing, attempting to not necessarily explain the relevance, but mostly just documenting what is happening. These notes act as the basis for a summative memo that is written after each observation is complete. The memo will take the step of trying to explain what was observed, and how those observations may be relevant to answering the broader research questions that are being asked in the study.
 - **Sensitivities**: Participant observation can produce highly sensitive data as it depends upon capturing events, activities, and the interactions of people in particular places at particular times. Reliably protecting the identity of those participants, like in an interview method, is a responsibility of the researcher to manage. This management of participant identifiable data requires using anonymous identifiers, and the safe storage of data (e.g. notes and memos) in locations that are stable and secure.
-
-
-## Readings
-
-Smith, M., & Bowers-Brown, T. (2010). Different kinds of qualitative data collection methods. Practical research and evaluation: A start-to-finish guide for practitioners, 111-125. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Qual-Collection-Reading.pdf)
-
-**LIS Research Spotlight**
-
-Loudon, K., Buchanan, S., & Ruthven, I. (2016). The everyday life information seeking behaviours of first-time mothers. Journal of Documentation. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/1stTimeMoms.pdf)
-
-Lopatovska, I., Rink, K., Knight, I., Raines, K., Cosenza, K., Williams, H., ... & Martinez, A. (2019). Talk to me: Exploring user interactions with the Amazon Alexa. Journal of Librarianship and Information Science, 51(4), 984-997. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Alexa.pdf)
-
-**Suggested**
-
-Costello, L., McDermott, M.-L., & Wallace, R. (2017). Netnography: Range of Practices, Misperceptions, and Missed Opportunities. International Journal of Qualitative Methods, 16(1), 1609406917700647. [Link](https://doi.org/10.1177/1609406917700647)
-
-Nowell, L. S., Norris, J. M., White, D. E., & Moules, N. J. (2017). Thematic Analysis: Striving to Meet the Trustworthiness Criteria. International Journal of Qualitative Methods, 16(1), 1609406917733847. [Link](https://doi.org/10.1177/1609406917733847)
-
-Charmaz, K., & Belgrave, L. L. (2019). Thinking About Data With Grounded Theory. Qualitative Inquiry, 25(8), 743–753. [Link](https://doi.org/10.1177/1077800418809455)
-
-Paulus, T. M., Jackson, K., & Davidson, J. (2017). Digital Tools for Qualitative Research: Disruptions and Entanglements. Qualitative Inquiry, 23(10), 751–756. [Link](https://doi.org/10.1177/1077800417731080)
-
-## Exercise
-Forthcoming

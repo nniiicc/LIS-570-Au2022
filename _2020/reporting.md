@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research Reporting"
-date: 2020-11-30
+date: 2022-12-06
 ready: true
 video:
   aspect: 56.25

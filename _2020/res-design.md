@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research Design"
-date: 2020-10-19
+date: 2022-10-10
 ready: true
 video:
   aspect: 56.25
@@ -9,7 +9,7 @@ video:
 ---
 
 
-**Week 4 - Research Design**: The ability to meaningfully select research topics, pose research questions, sample populations, and securely manage data are part of the research design process. Throughout Week 4 we will work through the different elements of a research project's design.
+**Research Design**: The ability to meaningfully select research topics, pose research questions, sample populations, and securely manage data are part of the research design process. Throughout Week 4 we will work through the different elements of a research project's design.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wF8bv21Dd2k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -57,25 +57,13 @@ In research design we typically think about guarding against biases by using mea
 
 - Internal validity is controlled for by the process of research design that documents, and transparently records things like units of analysis and observation, study settings, hypotheses, data management plans, research participant checking of and giving feedback on our interpretations, etc. The helpful way to think about internal validity is that this is what is directly within your control as the designer of your own research project.
 
-We will, like sampling and units of analysis and observation, continue to revisit these concepts as we begin to explore quantitative, qualitative, and design-based research methods in the coming weeks. But, by simply recognizing and being aware of these concepts you can continue to build research plans and designs that are accurate, rigorous, and ultimately informative to the audience identified in your research statements. 
+We will, like sampling and units of analysis and observation, continue to revisit these concepts as we begin to explore quantitative, qualitative, and design-based research methods in the coming weeks. But, by simply recognizing and being aware of these concepts you can continue to build research plans and designs that are accurate, rigorous, and ultimately informative to the audience identified in your research statements.
 
 
-## Readings
-Read the introduction, and then choose two types of research designs to read about (for clarity - each type is a method): USC LibGuide on Designing Research Projects - [HTML](https://libguides.usc.edu/writingguide/researchdesigns)
-
-The design of a research project doesn't need to be fully about creating brand new knowledge - it may also be for the purposes of conducting an evaluation of an ongoing program. Read a short introduction to Evaluation and its different design considerations [at this link (HTML)](https://conjointly.com/kb/introduction-to-evaluation/)
-
-
-**LIS Research Spotlight**
-- Strover, S., Whitacre, B., Rhinesmith, C., & Schrubbe, A. (2020). The digital inclusion role of rural libraries: social inequalities through space and place. Media, Culture & Society, 42(2), 242-259. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Week4-LIS-Spot.pdf)
-
-**Suggested**
+## Suggested Further Readings
 
  - Jaeger, P. T., Bertot, J. C., & Franklin, R. E. (2010). Diversity, inclusion, and underrepresented populations in LIS research. The Library Quarterly, 80(2), 175-181. [PDF](https://www.journals.uchicago.edu/doi/pdf/10.1086/651053)
 
 - Carmi, E., & Yates, S. J. (2020). What do digital inclusion and data literacy mean today?. Internet Policy Review, 9(2). [HTML](https://policyreview.info/digital-inclusion)
 
 - Streatfield, D., Paley, J., Cottrill, J., Errecart, K., White, A., Schaden, C., ... & Crocker, R. (2015). The evolution of Global Libraries’ performance measurement and impact assessment systems. [HTML](https://www.emerald.com/insight/content/doi/10.1108/PMM-04-2015-0010/full/html)
-
-## Exercise
-Forthcoming

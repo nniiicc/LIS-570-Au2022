@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Design Methods"
-date: 2020-11-23
+date: 2022-11-28
 ready: true
 video:
   aspect: 56.25
@@ -25,26 +25,8 @@ Literature cited in this lecture includes:
 ## Lecture Notes
 Design based methods are quite different than the other empirical methods we've discussed in class so far. This difference is rooted in two specific aspects of Design based research:
 
-1. Abductive Logic - Instead of using deduction or induction, a design based research study will use a form of abduction that jumps right from observation (specific) to theory (generalization). This is in service of building an artifact that can help, improve, or change some aspect of the observed population. If we take a step back and think about this practically - it makes a lot of sense. When we build something new - be it an interface, an app, or even a voting ballot - what we want, above all else, is to invoke change (or to "intervene") in the status quo. If this is our intention - we don't need to develop a broad reaching theory of the way the world works - what we need is a quick diagnosis of the problem based on observations - and a hunch about how we can accurately solve the problem with our design skills. Abduction is the logic that enables this mode of inquiry. 
+1. Abductive Logic - Instead of using deduction or induction, a design based research study will use a form of abduction that jumps right from observation (specific) to theory (generalization). This is in service of building an artifact that can help, improve, or change some aspect of the observed population. If we take a step back and think about this practically - it makes a lot of sense. When we build something new - be it an interface, an app, or even a voting ballot - what we want, above all else, is to invoke change (or to "intervene") in the status quo. If this is our intention - we don't need to develop a broad reaching theory of the way the world works - what we need is a quick diagnosis of the problem based on observations - and a hunch about how we can accurately solve the problem with our design skills. Abduction is the logic that enables this mode of inquiry.
 
 ![](https://raw.githubusercontent.com/nniiicc/LIS-570-Au2020/master/images/Abduction.jpg)
 
 2. Commitment to Pragmatism - As we discussed in the logic of abduction - what design research is often concerned with is meaningful intervention. As such, the building up of reliable and generalizable knowledge is not as large a concern for the design-based researcher. They are more concerned with the impact and intended effect of their intervention. Another way to think about this is that social scientists are often interested in describing and predicting aspects of the social world - and designers are interested in mediating and changing aspects of the social world through purposeful intervention.  
-
-
-## Readings
-
-- Bowler, L., & Large, A. (2008). Design-based research for LIS. Library & Information Science Research, 30(1), 39-46. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Week9/Design_based_research_for_LIS.pdf)
-
-**LIS Research Spotlight**
-
-- Clarke, R. I. “Toward a Design Epistemology for Librarianship.” The Library Quarterly: Information, Community, Policy 88 (1): 41-59. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Week9/clarke2018.pdf)
-
-**Suggested**
-- Pollak, A. (2017). Visual research in LIS: Complementary and alternative methods. Library & Information Science Research, 39(2), 98-106. [PDF](https://core.ac.uk/download/pdf/61693749.pdf)
-
-- Friedman, B., Hendry, D. G., & Borning, A. (2017). A survey of value sensitive design methods. Foundations and Trends in Human-Computer Interaction, 11(2), 63-125. [PDF](https://github.com/nniiicc/LIS-570-Au2020/raw/master/readings/Week9/friedman2017.pdf) [Note: This is a longer piece that highlights 14 different methods used in VSD - it also offers a soft introduction to these methods with links to relevant literature]
-
-
-## Exercise
-Forthcoming
