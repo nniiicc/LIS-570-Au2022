@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Quantitative - Methods for Data Collection"
-date: 2020-11-15
+date: 2022-11-15
 ready: true
 video:
   aspect: 56.25
